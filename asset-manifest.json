@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df725b7b.css",
+    "main.js": "/static/js/main.ef8d0196.js",
+    "static/js/415.fc063c41.chunk.js": "/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/static/js/787.f6e65957.chunk.js",
+    "static/media/test.png": "/static/media/test.fe498b561f5c369b3ee4.png",
+    "static/media/cloth.PNG": "/static/media/cloth.67cff0918a6b30f4bf48.PNG",
+    "static/media/hotel.PNG": "/static/media/hotel.046c797efaa4ebca89ee.PNG",
+    "static/media/food.PNG": "/static/media/food.e013e42c49ae02d3e509.PNG",
+    "static/media/weather.PNG": "/static/media/weather.e97428d36c99924fbd7d.PNG",
+    "static/media/towhidul_islam.pdf": "/static/media/towhidul_islam.cb94c558704a6d0c1264.pdf",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.df725b7b.css.map": "/static/css/main.df725b7b.css.map",
+    "main.ef8d0196.js.map": "/static/js/main.ef8d0196.js.map",
+    "415.fc063c41.chunk.js.map": "/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df725b7b.css",
+    "static/js/main.ef8d0196.js"
+  ]
+}
