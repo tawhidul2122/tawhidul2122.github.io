@@ -1,5 +1,5 @@
-### Personal Portfolio Page
+### How to use
 
-To do: 
-* Add Projects
-* Navigation
+
+* Clone this repo
+* Run  `npm i`
