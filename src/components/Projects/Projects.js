@@ -50,16 +50,16 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={hotel}
-              isBlog={false}
-              title="Hotel Booking System"
-              description="MERN stack hotel booking App"
-              ghLink="https://github.com/tawhidul2122/Hotel-Booking"
-              demoLink="https://github.com/tawhidul2122/Hotel-Booking"
-            />
-          </Col>
+//           <Col md={4} className="project-card">
+//             <ProjectCard
+//               imgPath={hotel}
+//               isBlog={false}
+//               title="Hotel Booking System"
+//               description="MERN stack hotel booking App"
+//               ghLink="https://github.com/tawhidul2122/Hotel-Booking"
+//               demoLink="https://github.com/tawhidul2122/Hotel-Booking"
+//             />
+//           </Col>
 
         </Row>
       </Container>
