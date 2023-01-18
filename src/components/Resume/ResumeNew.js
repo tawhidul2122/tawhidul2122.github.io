@@ -13,7 +13,9 @@ function ResumeNew() {
        </div>
     <div > 
       <div> <ul> <li>  {"\n"} {"\n"} </li> </ul> </div>
-       <iframe title="resume" src="https://drive.google.com/file/d/1fiMXHY9pRLE_iFu_A1Cgp9FJXUrUGbQk/preview" width="800" height="500" allow="autoplay"></iframe>
+       <iframe title="resume" src="https://drive.google.com/file/d/1Kjl4DgbTNQkJleaueEda6RWwO3MzGoAp/preview" width="800" height="500" allow="autoplay"></iframe>
+
+
        </div>
        <div>
        <Container fluid className="resume-section">
