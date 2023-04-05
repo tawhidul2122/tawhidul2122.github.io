@@ -8,11 +8,11 @@ function Type() {
         strings: [
           "Web Developer",
           "Algorithmic Problem Solver",
-          "Tech Enthusiastic",
+          "CS Undergraduate",
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 50,
+        deleteSpeed: 30,
       }}
     />
   );

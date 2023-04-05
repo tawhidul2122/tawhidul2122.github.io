@@ -49,7 +49,7 @@ function Home2() {
               </li>     
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/tawhidul2122"
+                  href="https://leetcode.com/tawhidul2122"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
